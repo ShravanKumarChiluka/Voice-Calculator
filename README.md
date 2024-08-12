@@ -51,13 +51,13 @@ The calculator will process your input and audibly provide the result.
 
 ## Example Commands
 
-"What is 10 plus 5?"
+"10 plus 5?"
 
-"Calculate 20 divided by 4."
+"20 divided by 4."
 
-"What is the square root of 16?"
+"Square root of 16?"
 
-"Find the sine of 30 degrees."
+"sine of 30 degrees."
 
 
 ## Contributing
